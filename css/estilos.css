@@ -46,9 +46,7 @@ body
 }
 #post
 {
-<<<<<<< HEAD
     background: white;
-=======
     padding: 1em;
 }
 #footer
@@ -56,6 +54,5 @@ body
     background:#777 ;
     color: white;
     text-align: center;
->>>>>>> footer
     padding: 1em;
 }
