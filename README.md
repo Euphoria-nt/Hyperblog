@@ -7,3 +7,4 @@ Blog para el curso de Git y GitHub por Jordan B.
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas practicas
 * Anime
+* Incluye ejemplos en windows
