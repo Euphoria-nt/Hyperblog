@@ -8,3 +8,4 @@ Blog para el curso de Git y GitHub por Jordan B.
 * El verdadero amor por las buenas practicas
 * Anime
 * Incluye ejemplos en windows
+* Disponible para todas las edades
